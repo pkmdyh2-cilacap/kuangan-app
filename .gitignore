@@ -95,6 +95,7 @@ vendor/
 #-------------------------
 # IDE / Development Files
 #-------------------------
+opencode.json
 
 # Modules Testing
 _modules/*
